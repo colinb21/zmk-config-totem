@@ -21,7 +21,7 @@ layers:
   - {t: E, h: RCTRL}
   - {t: I, h: RALT}
   - {t: O, h: RGUI}
-  - Q
+  - LCTRL
   - Z
   - X
   - C
@@ -33,7 +33,7 @@ layers:
   - .
   - /
   - '~'
-  - DEL
+  - LALT
   - {t: TAB, h: NAVI}
   - SPACE
   - RET
