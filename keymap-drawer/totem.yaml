@@ -32,7 +32,7 @@ layers:
   - ','
   - .
   - /
-  - \
+  - '~'
   - DEL
   - {t: TAB, h: NAVI}
   - SPACE
