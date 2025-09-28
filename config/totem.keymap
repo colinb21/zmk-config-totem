@@ -16,6 +16,12 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
+// https://github.com/urob/zmk-helpers
+#include "zmk-helpers/helper.h"
+#include "zmk-helpers/key-labels/totem.h"
+#include "zmk-helpers/unicode-chars/currency.dtsi"
+#include "zmk-helpers/unicode-chars/french.dtsi"
+
 #define BASE 0
 #define NAV  1
 #define SYM  2
